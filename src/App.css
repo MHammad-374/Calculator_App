@@ -13,6 +13,6 @@ h1.appName {
 
 @media(max-width:600px){
     h1.appName {
-        font-size: 20px;
+        font-size: 30px;
     }
 }
