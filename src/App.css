@@ -10,3 +10,9 @@ h1.appName {
     font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
     font-size: 3em;
 }
+
+@media(max-width:600px){
+    h1.appName {
+        font-size: 20px;
+    }
+}
