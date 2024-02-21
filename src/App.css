@@ -1,0 +1,12 @@
+nav {
+    /* background: #c74f4f; */
+    padding: 5px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+h1.appName {
+    font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+    font-size: 3em;
+}
