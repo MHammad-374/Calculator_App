@@ -34,7 +34,7 @@ function Body(props) {
       }
     }
     else if (btn === '=') {
-      setOutput(eval(output))
+      setOutput(eval(output).toFixed(5))
     }
     else {
       if (output !== '0') {
